@@ -1,1 +1,0 @@
-[How to be great](How to be great.md)
