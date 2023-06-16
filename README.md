@@ -1,2 +1,1 @@
-[hi_test](text.md)
-[hi](text)
+[[How to be great]]
