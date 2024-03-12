@@ -1,2 +1,2 @@
 - hi
-[[test.md]]
+- [test](test.md)
