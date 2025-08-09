@@ -3,8 +3,8 @@ layout: page
 title: About
 ---
 
-<p style="font-size: 1.5em;">Md. Shahriar<br>
-<span style="font-size: 0.67em;">Water Resources Engineer at Indetechs Software Ltd.</span></p>
+<p style="font-size: 2em;">Md. Shahriar</p>
+<p style="font-size: 1em;">Water Resources Engineer at Indetechs Software Ltd.</p>
 
 
 Dhaka, Bangladesh
