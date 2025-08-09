@@ -1,6 +1,5 @@
 ---
 layout: page
-title: About
 ---
 
 <p style="font-size: 1.5em;">Md. Shahriar</p>
