@@ -1,9 +1,12 @@
 ---
 layout: page
+title: About
 ---
 
-<p style="font-size: 1.5em;">Md. Shahriar</p>
-<p style="font-size: 1.0em;">Water Resources Engineer at Indetechs Software Ltd.</p>
+<p style="font-size: 1.5em;">Md. Shahriar<br>
+<span style="font-size: 0.67em;">Water Resources Engineer at Indetechs Software Ltd.</span></p>
+
+
 Dhaka, Bangladesh
 
 # Top Skills
@@ -35,7 +38,7 @@ Dhaka, Bangladesh
 2. Research Assistant
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _April 2025 - Present_
-	- **Research Focus:** Simulation of wave-tide hydro-morpho-dynamics at Meghna Estuary using Delft3D
+	- Research Focus: Simulation of wave-tide hydro-morpho-dynamics at Meghna Estuary using Delft3D
 
 # Education
 1. Master of Engineering (MEng) - Water Resources Engineering
