@@ -16,9 +16,6 @@ Dhaka, Bangladesh
     - C++
     - MATLAB
 - Deep Learning
-    - Time Series Analysis
-    - LSTM
-    - Transformers
 - Hydro-Engineering & Simulation
     - Delft3D
     - HEC-RAS
