@@ -33,9 +33,7 @@ Dhaka, Bangladesh
 # Professional Experience
 1. Water Resources Engineer
 	- **Indetechs Software Ltd.**  
-	- _August 2025 - Present_
- 
- 
+	- _August 2025 - Present_<br> 
 2. Research Assistant
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _April 2025 - Present_
@@ -44,9 +42,7 @@ Dhaka, Bangladesh
 # Education
 1. Master of Engineering (MEng) - Water Resources Engineering
 	- **Bangladesh University of Engineering and Technology (BUET)**  
-	- _May 2025 - Ongoing_
- 
- 
+	- _May 2025 - Ongoing_<br>
 2. Bachelor of Engineering (BE) - Water Resources Engineering
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _February 2020 - March 2025_
