@@ -31,13 +31,14 @@ Dhaka, Bangladesh
     - ETABS
 
 # Professional Experience
-Water Resources Engineer
+*Water Resources Engineer*
 - **Indetechs Software Ltd.**  
-- _August 2025 - Present_
+- August 2025 - Present
 
-Research Assistant
+
+*Research Assistant*
 - **Bangladesh University of Engineering and Technology (BUET)**  
-- _April 2025 - Present_
+- April 2025 - Present
 - Research Focus: Simulation of wave-tide hydro-morpho-dynamics at Meghna Estuary using Delft3D
 
 # Education
