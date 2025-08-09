@@ -33,6 +33,7 @@ Dhaka, Bangladesh
 	- **Indetechs Software Ltd.**  
 	- _August 2025 - Present_
 
+
 2. Research Assistant
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _April 2025 - Present_
@@ -42,6 +43,8 @@ Dhaka, Bangladesh
 1. Master of Engineering (MEng) - Water Resources Engineering
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _May 2025 - Ongoing_
+
+
 2. Bachelor of Engineering (BE) - Water Resources Engineering
 	- **Bangladesh University of Engineering and Technology (BUET)**  
 	- _February 2020 - March 2025_
