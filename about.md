@@ -9,7 +9,7 @@ Water Resources Engineer at Indetechs Software Ltd.
 
 Dhaka, Bangladesh
 
-# Top Skills
+# Skills
 - Programming & Data Science
     - Python
     - PyTorch
