@@ -11,7 +11,7 @@ mdshahriar412@gmail.com • Dhaka, Bangladesh • [Website](https://shriar.githu
 
 ## About Myself
 
-I consider myself as very good problem solver. I came to this belief from experience. I can handle new problem pretty good. My approach is always to understand the thing, then everything just solves at the right time. I want to solve or build or discover new thing, that none have ever done or which everyone finds which very difficult.
+I consider myself as very good problem solver. I came to this belief from experience. I can handle new problem pretty good. My approach is always to understand the thing, then everything just solves at the right time. I want to solve or build or discover new thing, that none have ever done or which everyone finds very difficult.
 
 ## Experience
 
