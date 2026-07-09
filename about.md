@@ -29,6 +29,7 @@ I consider myself as very good problem solver. I came to this belief from experi
 - Helped in developing wave-tide coupled model with groyne for Bangladesh coastal zone
 
 **Intern** | Institute of Water Modelling, Uttara — *2 Weeks*
+- Gain some knowledge about Delft3D modelling.
 
 ## Education
 
