@@ -21,15 +21,12 @@ I consider myself as very good problem solver. I came to this belief from experi
 - Helped in developing conceptual disaster impact assessment tool
 - Having experience of EU-funded project management
 
-**Research Assistant (Part-Time)** | DWRE, BUET — *Aug 2025 – June 2025*
-- Investigated wave-tide interactions and estuarine hydrodynamics at the Meghna Estuary using Delft3D, with a focus on the impact of a proposed cross-dam.
-- Helped in developing wave-tide coupled model with groyne for Bangladesh coastal zone
-
 **Hydraulic Modeler (Freelance)** | DWASA Sewerage Network Project — *Jan 2026 – Feb 2026*
 - Developed hydraulic models for Dhaka's sewerage network using SewerGEMS to support DWASA infrastructure planning.
 
 **Research Assistant** | DWRE, BUET — *Apr 2025 – Jul 2025*
-- Conducted research on estuarine hydrodynamics using Delft3D models for the Bay of Bengal.
+- Investigated wave-tide interactions and estuarine hydrodynamics at the Meghna Estuary using Delft3D, with a focus on the impact of a proposed cross-dam.
+- Helped in developing wave-tide coupled model with groyne for Bangladesh coastal zone
 
 **Intern** | Institute of Water Modelling, Uttara — *2 Weeks*
 
