@@ -25,6 +25,11 @@ I consider myself as very good problem solver. I came to this belief from experi
 *Jan 2026 – Feb 2026*
 - Developed hydraulic models for Dhaka's sewerage network using SewerGEMS to support DWASA infrastructure planning.
 
+**Research Assistant (As MSc Student)** | DWRE, BUET
+*Jul 2025 – Jun 2026*
+- Investigated wave-tide interactions and estuarine hydrodynamics and morphodynamics at the Meghna Estuary using Delft3D, with a focus on the impact of a proposed cross-dam.
+- Helped in developing wave-tide coupled model with groyne for Bangladesh coastal zone
+
 **Research Assistant** | DWRE, BUET
 *Apr 2025 – Jul 2025*
 - Investigated wave-tide interactions and estuarine hydrodynamics and morphodynamics at the Meghna Estuary using Delft3D, with a focus on the impact of a proposed cross-dam.
