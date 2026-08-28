@@ -1,4 +1,4 @@
-title: Home
+title: Shahriar
 # author:
 #   name: GitHub User
 #   email: your-email@domain.com
@@ -30,7 +30,6 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
-  - Others.md
   - Post.md
   - about.md
 

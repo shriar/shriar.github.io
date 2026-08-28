@@ -27,7 +27,8 @@ I want to approach new challenges with curiosity and patience, focusing on under
 **Hydraulic Modeler** | DWASA Sewerage Network Project | **Jan 2026 – Feb 2026**
 - Developed hydraulic models for Dhaka's sewerage network using **SewerGEMS** to support DWASA infrastructure planning.
 
-**Intern** | Institute of Water Modelling, Uttara | **2 Weeks**
+**Intern** 
+Institute of Water Modelling, Uttara | **2 Weeks**
 
 ## EDUCATION
 
