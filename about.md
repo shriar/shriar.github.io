@@ -69,12 +69,12 @@ I want to approach new challenges with curiosity and patience, focusing on under
 ## Research &amp; Publications
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>M.Sc. Thesis (Ongoing)</strong><span class="cv-org">Shahriar, Rahman</span><span class="cv-date">2026 – Present</span></div>
+<div class="cv-role"><strong>M.Sc. Thesis (Ongoing)</strong><span class="cv-org"><strong>Shahriar</strong>, Rahman</span><span class="cv-date">2026 – Present</span></div>
 <div class="cv-subtitle">Hydro-morphodynamic analysis for assessing the impact of a cross-dam in a tidal channel of the Meghna Estuary using Delft3D-FM</div>
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>B.Sc. Thesis</strong><span class="cv-org">Shahriar, Rahman</span><a class="cv-date" href="https://zenodo.org/records/17403667">Zenodo</a></div>
+<div class="cv-role"><strong>B.Sc. Thesis</strong><span class="cv-org"><strong>Shahriar</strong>, Rahman</span><a class="cv-date" href="https://zenodo.org/records/17403667">Zenodo</a></div>
 <div class="cv-subtitle">Hydrodynamic Modelling at the Meghna Estuary</div>
 
 - Developed a coupled wave–tide hydrodynamic model to simulate nearshore hydrodynamics in the Bay of Bengal at the Meghna Estuary, using astronomical constituents, observed water level and discharge, and ERA5 wind data.
@@ -82,42 +82,42 @@ I want to approach new challenges with curiosity and patience, focusing on under
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Journal Writing in Progress</strong><span class="cv-org">Shahriar, Womera, Rahman, Siddika</span></div>
+<div class="cv-role"><strong>Journal Writing in Progress</strong><span class="cv-org"><strong>Shahriar</strong>, Womera, Rahman, Siddika</span></div>
 <div class="cv-subtitle">Hydrodynamic effects of idealized cross-dam closures in the island–channel network of the Meghna Estuary</div>
 
 - Coupled Delft3D-FLOW/SWAN modelling of how cross-dam closures near tidal convergence corridors redistribute flow and bed shear stress across the estuarine channel network.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Under Review · Journal of Hydrology</strong><span class="cv-org">Shahriar</span><a class="cv-date" href="https://ssrn.com/abstract=7552815">SSRN</a></div>
+<div class="cv-role"><strong>Under Review · Journal of Hydrology</strong><span class="cv-org"><strong>Shahriar</strong></span><a class="cv-date" href="https://ssrn.com/abstract=7552815">SSRN</a></div>
 <div class="cv-subtitle">Can Mamba match LSTM for daily streamflow prediction? A parameter- and depth-matched benchmark on 671 CAMELS basins</div>
 
 - Under matched conditions, LSTM beat Mamba-3 on every pair of CAMELS basins, even with a longer lookback and a different optimizer.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Research (Ongoing)</strong><span class="cv-org">Shahriar</span><a class="cv-date" href="https://github.com/shriar/Autoregressive-Hydrological-Model">Code</a></div>
+<div class="cv-role"><strong>Research (Ongoing)</strong><span class="cv-org"><strong>Shahriar</strong></span><a class="cv-date" href="https://github.com/shriar/Autoregressive-Hydrological-Model">Code</a></div>
 <div class="cv-subtitle">Spatio-Temporal Autoregressive River Discharge Forecasting with GAT-Transformer-Mamba</div>
 
 - Built a graph deep-learning model (GATv2 + spatio-temporal transformer + Mamba2) to forecast multi-basin river discharge from ERA5-based hydrometeorological forcing, using autoregressive rollout training—analogous to an LLM, it predicts the next future discharge autoregressively and can roll out indefinitely.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Research (Ongoing)</strong><span class="cv-org">Shahriar, Sujoy</span><a class="cv-date" href="https://github.com/shriar/Discharge-Forcasting-Using-GNN-GRU">Code</a></div>
+<div class="cv-role"><strong>Research (Ongoing)</strong><span class="cv-org"><strong>Shahriar</strong>, Sujoy</span><a class="cv-date" href="https://github.com/shriar/Discharge-Forcasting-Using-GNN-GRU">Code</a></div>
 <div class="cv-subtitle">River Discharge Forecasting Using GNN-GRU Deep Learning</div>
 
 - Designed and trained a hybrid Graph Neural Network + Gated Recurrent Unit model to predict river discharge from multi-variate hydrometeorological inputs (rainfall, temperature, evaporation) from ERA5 reanalysis.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Research</strong><span class="cv-org">Womera, Rahman, Shahriar</span><a class="cv-date" href="https://dx.doi.org/10.2139/ssrn.7560849">SSRN</a></div>
+<div class="cv-role"><strong>Research</strong><span class="cv-org">Womera, Rahman, <strong>Shahriar</strong></span><a class="cv-date" href="https://dx.doi.org/10.2139/ssrn.7560849">SSRN</a></div>
 <div class="cv-subtitle">Wave-Tide Interactions, Estuarine Controls and Groyne-Induced Hydrodynamic Responses along a Curved Sandy Coast</div>
 
 - Coupled Delft3D wave–tide modelling to assess how tidal forces, estuarine outflow, and shoreline curvature drive coastal erosion and how groynes may reduce nearshore hydrodynamic intensity.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Poster</strong><span class="cv-org">Shahriar, Sujoy et al.</span><a class="cv-date" href="https://sciforum.net/manuscripts/26294/slides.pdf">Slides</a></div>
+<div class="cv-role"><strong>Poster</strong><span class="cv-org"><strong>Shahriar</strong>, Sujoy et al.</span><a class="cv-date" href="https://sciforum.net/manuscripts/26294/slides.pdf">Slides</a></div>
 <div class="cv-subtitle">Multi-Scale Hydro-meteorological Assessment of Extreme Flooding Events: The Case of Bangladesh's Eastern Deltaic Region</div>
 
 - Quantifies the contribution of tidal surges, rainfall, and geomorphological features to flood intensity.

@@ -136,7 +136,7 @@ $cv-rule:        #dbe2ee;
     margin: 0 0 .35rem;
     line-height: 1.35;
 
-    strong {
+    > strong {
       grid-column: 1;
       grid-row: 1;
       font-size: 1.02rem;
@@ -151,6 +151,11 @@ $cv-rule:        #dbe2ee;
     min-width: 0;
     font-size: .92rem;
     color: $cv-muted;
+
+    strong {
+      font-weight: 700;
+      color: $cv-ink;
+    }
   }
 
   .cv-date {
