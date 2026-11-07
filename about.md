@@ -82,17 +82,31 @@ I want to approach new challenges with curiosity and patience, focusing on under
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Journal Writing in Progress</strong><span class="cv-org"><strong>Shahriar</strong>, Womera, Rahman, Siddika</span></div>
+<div class="cv-role"><strong>Under Review · Regional Studies in Marine Science</strong><span class="cv-org"><strong>Shahriar</strong>, Womera, Rahman, Siddika</span></div>
 <div class="cv-subtitle">Hydrodynamic effects of idealized cross-dam closures in the island–channel network of the Meghna Estuary</div>
 
 - Coupled Delft3D-FLOW/SWAN modelling of how cross-dam closures near tidal convergence corridors redistribute flow and bed shear stress across the estuarine channel network.
 </div>
 
 <div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Under Review · Journal of Hydrology</strong><span class="cv-org"><strong>Shahriar</strong></span><a class="cv-date" href="https://ssrn.com/abstract=7552815">SSRN</a></div>
+<div class="cv-role"><strong>Rejected after Revision · Journal of Hydrology</strong><span class="cv-org"><strong>Shahriar</strong></span><a class="cv-date" href="https://ssrn.com/abstract=7552815">SSRN</a></div>
 <div class="cv-subtitle">Can Mamba match LSTM for daily streamflow prediction? A parameter- and depth-matched benchmark on 671 CAMELS basins</div>
 
 - Under matched conditions, LSTM beat Mamba-3 on every pair of CAMELS basins, even with a longer lookback and a different optimizer.
+</div>
+
+<div class="cv-entry" markdown="1">
+<div class="cv-role"><strong>Under Review · Ocean Engineering</strong><span class="cv-org">Womera, Rahman, <strong>Shahriar</strong></span><a class="cv-date" href="https://dx.doi.org/10.2139/ssrn.7560849">SSRN</a></div>
+<div class="cv-subtitle">Wave-Tide Interactions, Estuarine Controls and Groyne-Induced Hydrodynamic Responses along a Curved Sandy Coast</div>
+
+- Coupled Delft3D wave–tide modelling to assess how tidal forces, estuarine outflow, and shoreline curvature drive coastal erosion and how groynes may reduce nearshore hydrodynamic intensity.
+</div>
+
+<div class="cv-entry" markdown="1">
+<div class="cv-role"><strong>Conference Paper (Under Revision) · 8th International Conference on Advances in Civil Engineering</strong><span class="cv-org"><strong>Shahriar</strong>, Rahman, Womera, Siddika</span></div>
+<div class="cv-subtitle">Development of tidal hydrodynamic model for Bay of Bengal and simulation of nearshore wave-tide hydrodynamics at Meghna Estuary using Delft3D</div>
+
+- Delft3D hydrodynamic modelling over a 163 km estuarine domain at 250 m resolution to simulate wave–tide interactions under eight flood/ebb, wet/dry, spring/neap scenarios.
 </div>
 
 <div class="cv-entry" markdown="1">
@@ -107,13 +121,6 @@ I want to approach new challenges with curiosity and patience, focusing on under
 <div class="cv-subtitle">River Discharge Forecasting Using GNN-GRU Deep Learning</div>
 
 - Designed and trained a hybrid Graph Neural Network + Gated Recurrent Unit model to predict river discharge from multi-variate hydrometeorological inputs (rainfall, temperature, evaporation) from ERA5 reanalysis.
-</div>
-
-<div class="cv-entry" markdown="1">
-<div class="cv-role"><strong>Research</strong><span class="cv-org">Womera, Rahman, <strong>Shahriar</strong></span><a class="cv-date" href="https://dx.doi.org/10.2139/ssrn.7560849">SSRN</a></div>
-<div class="cv-subtitle">Wave-Tide Interactions, Estuarine Controls and Groyne-Induced Hydrodynamic Responses along a Curved Sandy Coast</div>
-
-- Coupled Delft3D wave–tide modelling to assess how tidal forces, estuarine outflow, and shoreline curvature drive coastal erosion and how groynes may reduce nearshore hydrodynamic intensity.
 </div>
 
 <div class="cv-entry" markdown="1">
